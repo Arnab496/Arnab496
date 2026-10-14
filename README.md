@@ -65,15 +65,6 @@ Programming, Tools & Platforms
   <img src="https://streak-stats.demolab.com?user=Arnab496&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA" alt="GitHub contribution streak" />
 </div>
 
-📈 Contribution Activity
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab496&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=22d3ee&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
-🏆 Achievements
-<div align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=Arnab496&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
-</div>
 
 🌟 Let's Connect
 I'm always interested in learning, collaborating on meaningful projects, and connecting with people working on AI, data, and software engineering.
@@ -91,7 +82,5 @@ I'm always interested in learning, collaborating on meaningful projects, and con
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer" />
 
-</div>
 
