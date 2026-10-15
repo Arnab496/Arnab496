@@ -12,16 +12,16 @@ Driving Innovation Through Artificial Intelligence, Data Science & Emerging Tech
 LinkedIn · Kaggle · LeetCode · Repositories
 </div>
 
-👋 About Me
+About Me
 I'm a Computer Science student interested in building practical, reliable technology at the intersection of AI, machine learning, data science, and full-stack engineering.
-- 🔬 AI & Research: Exploring deep learning, computer vision, image-forgery detection, and AI-generated media detection.
-- 🧠 Machine Learning: Working with Python, PyTorch, scikit-learn, NumPy, and Pandas.
-- 🌐 Full-Stack Development: Building web applications with React, Node.js, Express, and MongoDB.
-- 🛠️ Builder mindset: Turning ideas into usable projects, prototypes, and data-driven solutions.
-- 🌱 Currently working on: EquiLearn.
+- AI & Research: Exploring deep learning, computer vision, image-forgery detection, and AI-generated media detection.
+- Machine Learning: Working with Python, PyTorch, scikit-learn, NumPy, and Pandas.
+- Full-Stack Development: Building web applications with React, Node.js, Express, and MongoDB.
+- Builder mindset: Turning ideas into usable projects, prototypes, and data-driven solutions.
+- Currently working on: EquiLearn.
 Driven by curiosity. Focused on engineering. Building technology with purpose.
 
-🧭 Current Focus
+Current Focus
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-2563eb?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-7c3aed?style=flat-square&logo=pytorch&logoColor=white" alt="Computer Vision" />
@@ -29,7 +29,7 @@ Driven by curiosity. Focused on engineering. Building technology with purpose.
   <img src="https://img.shields.io/badge/Full--Stack-Development-0f766e?style=flat-square&logo=react&logoColor=white" alt="Full-Stack Development" />
 </p>
 
-🧰 Technology Stack
+Technology Stack
 AI, Machine Learning & Data
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="Python, PyTorch, TensorFlow, OpenCV and scikit-learn" />
@@ -45,7 +45,7 @@ Programming, Tools & Platforms
   <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode,figma,arduino,mysql,linux,docker" alt="Programming languages and developer tools" />
 </p>
 
-📊 GitHub Analytics
+GitHub Analytics
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arnab496&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub overview statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab496&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used programming languages" />
@@ -60,13 +60,13 @@ Programming, Tools & Platforms
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arnab496&theme=github_dark&utcOffset=5.5" alt="GitHub productive time summary" />
 </div>
 
-🔥 Contribution Streak
+Contribution Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Arnab496&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA" alt="GitHub contribution streak" />
 </div>
 
 
-🌟 Let's Connect
+Let's Connect
 I'm always interested in learning, collaborating on meaningful projects, and connecting with people working on AI, data, and software engineering.
 <p align="center">
   <a href="https://www.linkedin.com/in/arnab-sur-43b41b327/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
